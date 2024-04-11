@@ -15,6 +15,7 @@ The configuration file must be called `config.json` and placed in the website's 
 - `logoThemes` : {key : string} = Keys are logo file paths, values are their themes (`"dark"` or `"light"`).
 
 ## Console files
+Console files paths **MUST** be referenced in the `config.json` file to work, they can be placed anywhere as long as they're in the configuration file's `consoles` object.
 Every console file is actually an array of ROM items, which are objects that contain the following parameters:
 - `title` : The ROM's title
 - `link` : A URL to the ROM's download page (or to the file itself)

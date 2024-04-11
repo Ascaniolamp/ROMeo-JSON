@@ -8,8 +8,9 @@ The configuration file must be called `config.json` and placed in the website's 
 - `consoles` : {key : string} - Keys are the console' names and their values are the paths to their respective JSON file.
 
 ### Optional parameters
-- `maxItems` : number - The maximum number of items to display in a single page.
+- `caseSensitive` : boolean - If set to `false` the console search won't be case=sensitive.
 - `styleLogos` : boolean - If set to `false` the download buttons won't show the website's logo.
+- `maxItems` : number - The maximum number of items to display in a single page.
 - `sitesLogos` : {key : string} = Keys are the website's domain name (ex. `"vimm.net"`), values are paths to their respective logo file.
 - `logoThemes` : {key : string} = Keys are logo file paths, values are their themes (`"dark"` or `"light"`).
 

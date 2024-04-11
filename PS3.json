@@ -1,13 +1,5 @@
 [
 	{
-		"title":"EXAMPLE ITEM!",
-		"link":"https://example.com/",
-		"altLinks":["https://google.com"],
-		"description":"Example description.",
-		"release":"6th April 2024"
-	},
-
-	{
 		"title":"Adventure Time: The Secret of the Nameless Kingdom",
 		"link":"https://vimm.net/vault/85941",
 		"release":"2014"

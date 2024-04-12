@@ -1,7 +1,7 @@
 # ROMeo default JSONs
 
 ## Configuration file (`config.json`)
-The configuration file must be called `config.json` and placed in the website's root, it contains multiple optional and essential configuration parameters:
+The configuration file must be called `config.json` and placed in the same directory as the index.html file, it contains multiple optional and essential configuration parameters:
 
 ### Essential parameters
 - `defaultConsole` : string - The `consoles` key string value of the first console the page will load.

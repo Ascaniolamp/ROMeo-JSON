@@ -9,8 +9,9 @@
 	},
 
 	"maxItems":8,
-	
+	"caseSensitive":true,
 	"styleLogos":true,
+	
 	"sitesLogos":{
 		"vimm.net":"media/vimm.png",
 		"archive.org":"media/archive.png"

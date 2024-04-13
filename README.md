@@ -26,3 +26,6 @@ Every console file is actually an array of ROM items, which are objects that con
 
 Every ROM with a missing `title` or `link` parameter will be marked by a yellow border.
 If it's missing both parameters, the border will be red instead.
+
+## Logos
+The repo's `res` folder contains the logo files which are linked inside the configuration file.

@@ -15,6 +15,7 @@
 		"vimm.net":"media/vimm.png",
 		"archive.org":"media/archive.png"
 	},
+
 	"logoThemes":{
 		"media/vimm.png":"dark",
 		"media/archive.png":"light"

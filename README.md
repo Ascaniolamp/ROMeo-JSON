@@ -5,7 +5,7 @@ The configuration file must be called `config.json` and placed in the same direc
 
 ### Essential parameters
 - `defaultConsole` : string - The `consoles` key string value of the first console the page will load.
-- `consoles` : {key : string} - Keys are the console' names and their values are the paths to their respective JSON file.
+- `consoles` : {key : string} - Keys are the console' names and their values are the paths to their respective JSON file. Keys MUST be declared using uppercase.
 
 ### Optional parameters
 - `caseSensitive` : boolean - If set to `false` the console search won't be case-sensitive.

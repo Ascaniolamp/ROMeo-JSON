@@ -28,4 +28,4 @@ Every ROM with a missing `title` or `link` parameter will be marked by a yellow 
 If it's missing both parameters, the border will be red instead.
 
 ## Logos
-The repo's `res` folder contains the logo files which are linked inside the configuration file.
+The repo's `media` folder contains the logo files which are linked inside the configuration file.
